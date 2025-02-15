@@ -1,5 +1,5 @@
 # autism
-This notebook explores the prediction of Autism Spectrum Disorder (ASD) using various machine learning models. It follows a structured pipeline, including data preprocessing, exploratory data analysis (EDA), class imbalance handling with SMOTE, and model training using Decision Tree, Random Forest, and XGBoost. The best-performing model is selected through hyperparameter tuning, and its performance is evaluated using accuracy, confusion matrix, and classification report.
+This project explores the prediction of Autism Spectrum Disorder (ASD) using various machine learning models. It follows a structured pipeline, including data preprocessing, exploratory data analysis (EDA), class imbalance handling with SMOTE, and model training using Decision Tree, Random Forest, and XGBoost. The best-performing model is selected through hyperparameter tuning, and its performance is evaluated using accuracy, confusion matrix, and classification report.
 
 Pipeline Overview:
 
@@ -27,4 +27,6 @@ Evaluating performance using accuracy score, confusion matrix, and classificatio
 Saving the best model for future predictions.
 
 Outcome:
-The notebook aims to identify the most accurate model for ASD prediction, ensuring high precision and recall to minimize false diagnoses.
+The project aims to identify the most accurate model for ASD prediction, ensuring high precision and recall to minimize false diagnoses.
+
+About ASD: Autism spectrum disorder is a condition related to brain development that impacts how a person perceives and socializes with others, causing problems in social interaction and communication. 
